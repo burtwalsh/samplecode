@@ -1,4 +1,4 @@
 public class P
 {
-	public int getNumber() { return 4; }
+	public static int getNumber() { return 4; }
 }
